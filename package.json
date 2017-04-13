@@ -1,0 +1,30 @@
+{
+  "name": "async_code_with_generators",
+  "version": "1.0.0",
+  "description": "async_code_with_generators",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rBurgett/async_code_with_generators.git"
+  },
+  "author": "Ryan Burgett",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/rBurgett/async_code_with_generators/issues"
+  },
+  "homepage": "https://github.com/rBurgett/async_code_with_generators#readme",
+  "dependencies": {
+    "co": "^4.6.0",
+    "co-fs-extra": "^1.2.1",
+    "express": "^4.15.2",
+    "fs-extra": "^2.1.2",
+    "fs-extra-promise": "^1.0.1",
+    "superagent": "^3.5.2"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0"
+  }
+}
